@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
+streamlit_new.out.log
+streamlit_new.err.log
+
+pdf_to_excel_portable.zip
+*.zip
+
+.DS_Store
+Thumbs.db
